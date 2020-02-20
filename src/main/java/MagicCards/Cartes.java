@@ -10,7 +10,6 @@ public abstract class Cartes {
 	Couleur couleur;
 	static List<Cartes> listCartesJouees;
 
-	
 	// constructeur obligatoire
 	public Cartes(int cout, String nomCarte,Couleur couleur) {
 		super();
